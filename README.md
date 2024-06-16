@@ -51,8 +51,3 @@ python app.py
 
 
 ![Alt Text](assets/Screenshot%202024-06-16%20143104.png)
-
-
-## License
-
-This project is licensed under the MIT License.
