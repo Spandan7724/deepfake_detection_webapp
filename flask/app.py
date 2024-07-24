@@ -8,7 +8,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-MODEL_PATH = "C:/Users/91898/Desktop/NTN_deepfake_detection_projects/flask/model_resnet50.h5"
+MODEL_PATH = "C:/Users/91898/Code/deepfake_detection_webapp/model_resnet50.h5"
 model = load_model(MODEL_PATH)
 
 
